@@ -1,0 +1,1 @@
+include ':app', ':JavaCallC', ':CCallJava', ':CCallJava2', ':MTXX', ':Boiler', ':Uninstall', ':MTXXNDK'
